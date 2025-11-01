@@ -64,15 +64,11 @@ It is highly recommended to use a virtual environment to manage dependencies.
     # .venv\Scripts\Activate.ps1
     ```
 
-2.  **Install Dependencies:** Install the necessary libraries for the multi-agent framework and Ollama communication.
+2.  **Install Dependencies:** Install the necessary libraries.
 
     ```bash
-    pip install crewai langchain-community ollama python-dotenv
+    pip install -r requirements.txt
     ```
-    * **`crewai`** (or another agent framework like LangChain): For orchestrating the multi-agent system.
-    * **`ollama`:** The Python client to communicate with your local Ollama server.
-    * **`python-dotenv`:** For handling configuration variables.
-
 ---
 
 ## 🚀 Running the Project
@@ -85,4 +81,5 @@ The agent system is executed via a Command Line Interface (CLI) tool.
 ```bash
 python -m app run --catalog data/supplier_catalog.csv \
 --orders data/orders.csv --out out/
+
 
