@@ -1,0 +1,34 @@
+supplier_sku,name,category,cost_price,stock,shipping_cost
+SKU001,Premium Widget,Electronics,10.00,50,5.00
+SKU002,Cheap Gadget,Home Goods,2.00,5,1.00
+SKU003,Luxury Lamp,Electronics,50.00,20,10.00
+SKU004,Simple Mug,Home Goods,1.00,10,2.00
+SKU005,Smart Watch Pro,Electronics,80.00,100,15.00
+SKU006,Book Collection,Books,5.00,15,5.00
+SKU007,High-End Stereo,Electronics,120.00,40,20.00
+SKU008,Kitchen Blender,Home Goods,25.00,10,8.00
+SKU009,T-Shirt Set,Apparel,7.00,60,3.00
+SKU010,Designer Jeans,Apparel,40.00,12,7.00
+SKU011,Basic Headphones,Electronics,15.00,50,5.00
+SKU012,Garden Hose,Outdoor,10.00,50,5.00
+SKU013,Coffee Maker,Home Goods,30.00,50,5.00
+SKU014,VR Headset,Electronics,150.00,50,5.00
+SKU015,Running Shoes,Apparel,60.00,50,5.00
+# ... add more SKUs to reach a pool greater than 10 ...
+supplier_sku,name,category,cost_price,stock,shipping_cost
+SKU001,Premium Widget,Electronics,10.00,50,5.00
+SKU002,Cheap Gadget,Home Goods,2.00,5,1.00
+SKU003,Luxury Lamp,Electronics,50.00,20,10.00
+SKU004,Simple Mug,Home Goods,1.00,10,2.00
+SKU005,Smart Watch Pro,Electronics,80.00,100,15.00
+SKU006,Book Collection,Books,5.00,15,5.00
+SKU007,High-End Stereo,Electronics,120.00,40,20.00
+SKU008,Kitchen Blender,Home Goods,25.00,10,8.00
+SKU009,T-Shirt Set,Apparel,7.00,60,3.00
+SKU010,Designer Jeans,Apparel,40.00,12,7.00
+SKU011,Basic Headphones,Electronics,15.00,50,5.00
+SKU012,Garden Hose,Outdoor,10.00,50,5.00
+SKU013,Coffee Maker,Home Goods,30.00,50,5.00
+SKU014,VR Headset,Electronics,150.00,50,5.00
+SKU015,Running Shoes,Apparel,60.00,50,5.00
+# ... add more SKUs to reach a pool greater than 10 ...

@@ -1,0 +1,33 @@
+supplier_sku,name,category,cost_price,stock,weight_kg,length_cm,width_cm,height_cm,image_url,description,brand,shipping_cost,supplier_lead_days
+SPH-001,Ergonomic Wireless Mouse,Electronics,12.5,50,0.15,10,6,4,url_001,"A comfortable, silent mouse for all-day use.",TechGear,3,5
+SPH-002,Noise Cancelling Headphones,Electronics,45,15,0.4,20,18,8,url_002,Premium over-ear headphones with 40-hour battery.,SoundBliss,5.5,7
+SPH-003,Bamboo Tea Infuser Bottle,Home Goods,8.2,120,0.35,25,7,7,url_003,Eco-friendly bottle with detachable stainless steel infuser.,GreenLife,2.5,4
+SPH-004,Stainless Steel Water Bottle (500ml),Home Goods,5,5,0.25,22,7,7,url_004,Double-walled insulated water bottle. (Low Stock),HydratePro,2,5
+SPH-005,Portable Bluetooth Speaker,Electronics,28.9,10,0.55,15,8,8,url_005,IPX7 waterproof speaker with rich bass.,AudioBoom,4,6
+SPH-006,"Men's Classic T-Shirt, S",Apparel,7.1,9,0.2,30,20,2,url_006S,"100% cotton, basic crew neck t-shirt. (Fail Stock Req.)",StyleCo,3.5,5
+SPH-007,"Women's Yoga Leggings, M",Apparel,14.9,100,0.3,35,25,3,url_007M,"High-waist, squat-proof yoga leggings.",FlexWear,4,7
+SPH-008,Automatic Pet Feeder,Pet Supplies,32,40,1.5,30,20,35,url_008,Programmable feeder for cats and small dogs.,Pawsome,7,8
+SPH-009,3-Pack Resistance Bands,Fitness,6.5,200,0.1,15,10,2,url_009,"Set of light, medium, and heavy resistance bands.",FitSculpt,1.5,3
+SPH-010,Digital Kitchen Scale,Home Goods,10.5,15,0.3,20,15,2,url_010,High-precision scale for baking and cooking.,ChefPro,3,4
+SPH-011,Solar Garden Lights (4-pack),Home & Garden,18,60,0.7,15,10,10,url_011,"Automatic, weather-resistant outdoor lighting.",BrightHome,5,7
+SPH-012,Portable Handheld Fan,Electronics,5.8,150,0.12,18,8,5,url_012,Rechargeable mini fan with three speed settings.,CoolBreeze,2,5
+SPH-013,Microfiber Hair Towel,Beauty & Health,4,12,0.08,30,60,1,url_013,"Super absorbent, fast-drying hair wrap.",LushLocks,1.5,4
+SPH-014,Phone Screen Protector (iPhone 15),Electronics,1.5,300,0.05,18,9,0.5,url_014,"Tempered glass, easy-install screen protector.",GuardUp,1,3
+SPH-015,"Leather Wallet, Brown",Accessories,15,20,0.1,12,10,2,url_015,Genuine leather bi-fold wallet.,FineGrain,3.5,6
+SPH-016,Portable Espresso Maker,Home Goods,40,11,0.8,20,10,10,url_016,Manual pressure espresso maker for travel.,WanderBrew,6,8
+SPH-017,Dimmable LED Desk Lamp,Electronics,16,10,0.6,40,15,5,url_017,Modern desk lamp with color temperature control.,LiteMode,4.5,6
+SPH-018,Reusable Grocery Bags (5-Pack),Home Goods,7.5,80,0.2,35,40,5,url_018,"Heavy-duty, washable, foldable grocery bags.",EcoCarry,2.5,4
+SPH-019,Kids Art Supplies Set,Toys & Hobbies,11.2,15,0.9,30,25,4,url_019,Complete 100-piece drawing and painting set.,CreativeKid,4,5
+SPH-020,Anti-Blue Light Glasses,Beauty & Health,6,55,0.05,15,5,5,url_020,Stylish frames for reducing eye strain.,EyeShield,2,4
+SPH-021,Electric Wine Opener,Home Goods,19,9,0.5,25,10,10,url_021,One-touch automatic wine bottle opener. (Fail Stock Req.),VinoLux,5,7
+SPH-022,Adjustable Laptop Stand,Electronics,22,30,1.2,35,25,5,url_022,Ergonomic stand for better posture.,ErgoDesk,6.5,8
+SPH-023,Silicone Baking Mat (2-pack),Home Goods,9.5,100,0.3,40,30,1,url_023,"Non-stick, reusable mats for oven use.",BakeMaster,3,4
+SPH-024,Travel Pillow & Eye Mask Set,Travel,8.8,15,0.25,30,30,10,url_024,Memory foam neck pillow and silk eye mask.,CozyTrip,2.5,5
+SPH-025,"Smart Watch, Black",Electronics,55,15,0.2,25,5,2,url_025B,"Fitness tracking, heart rate monitor, notifications.",PulseTech,6,7
+SPH-026,Aroma Diffuser (Wood Grain),Home Goods,17.5,45,0.45,15,15,20,url_026,Ultrasonic diffuser with 7 LED light settings.,ZenSpace,4.5,6
+SPH-027,Pet Grooming Glove,Pet Supplies,4.5,20,0.09,20,15,2,url_027,De-shedding glove for dogs and cats.,Pawsome,2,4
+SPH-028,Digital Caliper,Tools & Home Imp.,13,12,0.25,25,10,3,url_028,High-accuracy measuring tool for DIY projects.,MeasureMax,3.5,5
+SPH-029,Portable Camping Hammock,Outdoors,25,10,0.7,300,150,5,url_029,Lightweight and durable nylon hammock.,TrailBlaze,6,8
+SPH-030,Silicone Ice Cube Trays (2-pack),Home Goods,3.5,200,0.3,25,10,3,url_030,"Flexible, easy-release ice cube molds.",CoolKitchen,2,3
+SPH-031,Rechargeable Book Light,Reading,6.2,8,0.05,15,3,2,url_031,Clip-on light with adjustable brightness. (Fail Stock Req.),PageTurn,1.5,4
+SPH-032,Fitness Jump Rope,Fitness,5,50,0.15,20,10,3,url_032,Adjustable speed skipping rope.,FitSculpt,2,4
